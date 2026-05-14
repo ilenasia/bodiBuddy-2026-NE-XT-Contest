@@ -5,3 +5,8 @@
    2024320203
 3) 핏리야 누룰 슈하다 (Fittriya Nurul Syuhada) - 개발자
    2024320146
+데모 링크: https://snack.expo.dev/@fittriya/bodibuddy
+
+
+
+
