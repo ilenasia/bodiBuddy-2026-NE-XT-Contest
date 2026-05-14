@@ -9,7 +9,7 @@
 
 보고서 링크: https://docs.google.com/document/d/1EO5ItL8W3v3YapmHKnzV8pIEg_v_Fx2n/edit?usp=sharing&ouid=104633157502967436182&rtpof=true&sd=true
 
-시연 영상 링크: 
+시연 영상 링크: https://youtu.be/tCKwch3GRzw
 
 데모 링크: https://snack.expo.dev/@fittriya/bodibuddy
 
